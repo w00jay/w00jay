@@ -22,7 +22,7 @@
 - 📧 tenaciouswp@gmail.com
 
 ### Stack I reach for
-`Python` `Go` `Kubernetes` `AWS` `GCP` `Pulumi` `Terraform` `Istio` `OpenTelemetry` `llama.cpp` `MCP` `FastAPI`
+`Python` `Go` `Kubernetes` `AWS` `GCP` `Pulumi` `OpenTelemetry` `llama.cpp` `MCP` `FastAPI` `Supabase` `Chroma` `Claude Code`
 
 ### Before this
 AWS (Systems Development Engineer) · Apex Clearing (SRE) · LINBIT (software engineer, DRBD) · co-founded an embedded hardware startup · US Air Force officer
