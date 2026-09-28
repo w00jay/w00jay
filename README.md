@@ -1,6 +1,6 @@
 # Hi, I'm Woojay 👋
 
-**Director of Platform Engineering at [ZeroEyes](https://zeroeyes.com), building AI infrastructure on FedRAMP-compliant Kubernetes.**
+I work at [Rad.ai](https://radai.com)!
 
 5+ years leading platform teams, 10+ years hands-on across systems and cloud-native infra. Currently extending that discipline to the AI platform layer — MCP servers, RAG systems, GPU inference, LLM evaluation, and the security models regulated industries need for agentic workloads.
 
