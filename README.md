@@ -1,6 +1,6 @@
 # Hi, I'm Woojay 👋
 
-**Platform engineering at [Rad AI](https://www.radai.com) — building the infrastructure behind generative AI for radiology.**
+**Staff Software Engineer on the Infra team at [Rad AI](https://www.radai.com) — multi-cloud infrastructure on AWS and GCP for generative AI in radiology.**
 
 5+ years leading platform teams, 10+ years hands-on across systems and cloud-native infra. Currently extending that discipline to the AI platform layer — MCP servers, RAG systems, GPU inference, LLM evaluation, and the security and compliance models healthcare and other regulated industries need for AI workloads.
 
@@ -8,7 +8,7 @@
 - 🧠 **MCP servers and RAG systems** in production (see `arxiver` ↓)
 - 🎯 **Dimension-routed LLM evaluation** on local GPUs (see `nite-eval` ↓)
 - 🔊 **GPU-backed inference serving** patterns (see `transcriber` ↓)
-- 🏥 **Healthcare AI platform** at work — reliable, HIPAA-conscious infrastructure for LLM-powered clinical workflows
+- ☁️ **Multi-cloud infra at Rad AI** — AWS (ECS, EKS, and more) and GCP for healthcare AI workloads
 
 ### Pinned projects
 - **arxiver** — Personal arXiv research assistant. FastMCP server, ChromaDB semantic search, TensorFlow recommendations, LLM summaries. Same backend exposed as CLI, REST API, Streamlit UI, and MCP.
