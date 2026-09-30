@@ -1,14 +1,14 @@
 # Hi, I'm Woojay 👋
 
-I work at [Rad.ai](https://radai.com)!
+**Platform engineering at [Rad AI](https://www.radai.com) — building the infrastructure behind generative AI for radiology.**
 
-5+ years leading platform teams, 10+ years hands-on across systems and cloud-native infra. Currently extending that discipline to the AI platform layer — MCP servers, RAG systems, GPU inference, LLM evaluation, and the security models regulated industries need for agentic workloads.
+5+ years leading platform teams, 10+ years hands-on across systems and cloud-native infra. Currently extending that discipline to the AI platform layer — MCP servers, RAG systems, GPU inference, LLM evaluation, and the security and compliance models healthcare and other regulated industries need for AI workloads.
 
 ### What I'm working on
 - 🧠 **MCP servers and RAG systems** in production (see `arxiver` ↓)
 - 🎯 **Dimension-routed LLM evaluation** on local GPUs (see `nite-eval` ↓)
 - 🔊 **GPU-backed inference serving** patterns (see `transcriber` ↓)
-- 🔐 **FedRAMP Moderate** platform buildout at work — AWS, EKS, Istio/Envoy, FIPS-140
+- 🏥 **Healthcare AI platform** at work — reliable, HIPAA-conscious infrastructure for LLM-powered clinical workflows
 
 ### Pinned projects
 - **arxiver** — Personal arXiv research assistant. FastMCP server, ChromaDB semantic search, TensorFlow recommendations, LLM summaries. Same backend exposed as CLI, REST API, Streamlit UI, and MCP.
@@ -25,4 +25,4 @@ I work at [Rad.ai](https://radai.com)!
 `Python` `Go` `Kubernetes` `AWS` `GCP` `Pulumi` `OpenTelemetry` `llama.cpp` `MCP` `FastAPI` `Supabase` `Chroma` `Claude Code`
 
 ### Before this
-AWS (Systems Development Engineer) · Apex Clearing (SRE) · LINBIT (software engineer, DRBD) · co-founded an embedded hardware startup · US Air Force officer
+ZeroEyes (Director of Platform Engineering — FedRAMP Moderate on AWS/EKS) · AWS (Systems Development Engineer) · Apex Clearing (SRE) · LINBIT (software engineer, DRBD) · co-founded an embedded hardware startup · US Air Force officer
